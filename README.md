@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+A mobile-based solution which helps to add, edit and delete a todo and also give priority depending on its importance 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
